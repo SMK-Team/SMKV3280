@@ -273,7 +273,7 @@ return status}
 //=================================================//
 
 //Kalau Mau Self Lu Buat Jadi False
-Raehan3280.public = true
+Raehan3280.public = false
 //=================================================//
 Raehan3280.serializeM = (m) => smsg(Raehan3280, m, store)
 Raehan3280.ev.on('connection.update', async (update) => {
