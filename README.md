@@ -49,6 +49,9 @@
 </div>
 
 
+    ## FOR REPLIT USER
+
+[![Run on Repl.it](https://repl.it/badge/github/SMK-Team/SMKV3280)](https://repl.it/github/SMK-Team/SMKV3280)
 </p>
 
 ```bash
